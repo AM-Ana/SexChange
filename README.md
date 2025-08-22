@@ -35,3 +35,5 @@ L’outil automatise la génération d’un document Word (.docx) conforme aux a
 - **Java 17** ou version ultérieure (environnement JDK).
 - Bibliothèque **Apache POI** (pour la génération des documents Word).
 - Système d’exploitation compatible avec Java (Windows, macOS, Linux).
+
+Des versions macOS et Windows (dmg et msi) sont distribuées en ligne mais pas sur ce Github (trop lourdes pour être uploadées sans compromettre mon anonymat).
